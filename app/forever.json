@@ -1,0 +1,10 @@
+{
+    "uid": "app",
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "sourceDir": "${APP_LOCATION}/app",
+    "logFile": "${APP_LOCATION}/logs/forever.log",
+    "outFile": "${APP_LOCATION}/logs/out.log",
+    "errFile": "${APP_LOCATION}/logs/error.log"
+  }
